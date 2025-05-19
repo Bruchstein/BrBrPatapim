@@ -1,13 +1,11 @@
 # BrBrPatapim
 
-> [!INFORMATION] 
-> What it does
-   
-Creates Tkinter Form and playing video files in VideoAssets directory 
+> [!TIP] 
+> What it does<br>
+> Creates Tkinter Form and playing video files in VideoAssets directory 
 
 > [!IMPORTANT]
-> Requirements
-
-Python
-tempfile
-requests
+> Requirements<br>
+> Python<br>
+> tempfile<br>
+> requests<br>
