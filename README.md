@@ -4,7 +4,7 @@
    
 Creates Tkinter Form and playing video files in VideoAssets directory 
 
-- [!IMPORTANT] Requirements
+[!IMPORTANT] Requirements
 
 Python
 tempfile
